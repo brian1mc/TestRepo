@@ -1,0 +1,16 @@
+{
+  "wrapReasons": [
+    "Resolved",
+    "Follow-up required",
+    "Customer unavailable",
+    "Transferred",
+    "Duplicate contact"
+  ],
+  "costCentres": [
+    "CC-100 · Customer Care",
+    "CC-210 · Technical Support",
+    "CC-320 · Billing",
+    "CC-410 · Retention"
+    "CC-999 · Test"
+  ]
+}
